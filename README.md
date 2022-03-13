@@ -9,7 +9,8 @@ given location and uses that data to pinpoit them on a map. This app display var
 
 ## Getting Started
 
-clone this project locally---
+clone this project locally
+-----------------------------
 run npm/yarn install
 run npm start
 
