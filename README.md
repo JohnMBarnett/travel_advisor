@@ -20,7 +20,7 @@ RapidAPI account
 
 ### Installing=
 
-create new project in [google cloud](https://cloud.google.com/) account
+create new project in your [google cloud](https://cloud.google.com/) account
 add the Places API & Maps JavaScript API to the project
   
 obtain API key for RapidAPI's [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/)
