@@ -7,7 +7,7 @@ Easy to use application that showcases local restraunts, hotels, and attractions
 This app was built using React.js and utilzes the Places API, JavaScript API, and RapidAPI's Travel Advisor API. This pulls in hotel, restaraunt, and attractions from any 
 given location and uses that data to pinpoit them on a map. This app display various information including location, address, ratings, awards, and links to their websites.
 
-## Getting Startedz
+## Getting Started
 
 clone this project locally
 run npm/yarn install
@@ -18,7 +18,7 @@ run npm start
 Google Cloud Account
 RapidAPI account
 
-### Installing=
+### Installing
 
 create new project in your [google cloud](https://cloud.google.com/) account
 add the Places API & Maps JavaScript API to the project
