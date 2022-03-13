@@ -25,7 +25,7 @@ add the Places API & Maps JavaScript API to the project
   
 obtain API key for RapidAPI's [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/)  
 
-Inside of the google script tag in public/index.html input your google project's api key where it says <key>  
+Inside of the google script tag in public/index.html input your google project's api key where it says key=[<key>] 
   
 create .env file  
 create env variable named REACT_APP_GOOGLE_MAP_API_KEY and set it equal to your google project's API key  
