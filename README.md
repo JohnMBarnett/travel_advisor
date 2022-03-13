@@ -9,10 +9,9 @@ given location and uses that data to pinpoit them on a map. This app display var
 
 ## Getting Started
 
-clone this project locally
------------------------------
-run npm/yarn install
-run npm start
+clone this project locally  
+run npm/yarn install  
+run npm start  
 
 ### Dependencies
 
@@ -21,16 +20,16 @@ RapidAPI account
 
 ### Installing
 
-create new project in your [google cloud](https://cloud.google.com/) account
-add the Places API & Maps JavaScript API to the project
+create new project in your [google cloud](https://cloud.google.com/) account  
+add the Places API & Maps JavaScript API to the project  
   
-obtain API key for RapidAPI's [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/)
+obtain API key for RapidAPI's [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/)  
 
-Inside of the google script tag in public/index.html input your google project's api key where it says <key>
+Inside of the google script tag in public/index.html input your google project's api key where it says <key>  
   
-create .env file
-create env variable named REACT_APP_GOOGLE_MAP_API_KEY and set it equal to your google project's API key
-create env variable named REACT_APP_RAPID_API_TRAVEL_API_KEY and set it equal to your RapidAPI key
+create .env file  
+create env variable named REACT_APP_GOOGLE_MAP_API_KEY and set it equal to your google project's API key  
+create env variable named REACT_APP_RAPID_API_TRAVEL_API_KEY and set it equal to your RapidAPI key  
 
 ## Authors
 
