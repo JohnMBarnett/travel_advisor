@@ -15,8 +15,8 @@ run npm start
 
 ### Dependencies
 
-Google Cloud Account
-RapidAPI account
+Google Cloud Account  
+RapidAPI account  
 
 ### Installing
 
